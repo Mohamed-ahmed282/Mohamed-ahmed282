@@ -27,11 +27,9 @@
 
 Here are some of the projects I've worked on:
 
-- 🧬 [Breast Cancer EDA](https://github.com/your-username/breast-cancer-eda)
+- 🧬 [Breast Cancer EDA](https://github.com/Mohamed-ahmed282/breast-cancer-analysis)
 - 🎬 [Movie Recommendation System](https://github.com/your-username/movie-recommendation)
 - 🏘️ [Airbnb Price Analysis](https://github.com/your-username/airbnb-price-analysis)
-
-> *(Replace the URLs with your actual project links)*
 
 ---
 
