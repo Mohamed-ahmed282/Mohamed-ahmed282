@@ -29,7 +29,7 @@ Here are some of the projects I've worked on:
 
 - 🧬 [Breast Cancer EDA](https://github.com/Mohamed-ahmed282/breast-cancer-analysis)
 - 🎬 [Hotel Reservation Analysis](https://github.com/Mohamed-ahmed282/Hotel-Reservation-Analysis)
-- 🏘️ [Airbnb Price Analysis](https://github.com/your-username/airbnb-price-analysis)
+- 🏘️ [Super Market Sales Analysis](https://github.com/Mohamed-ahmed282/Super-Market-Sales-Analysis)
 
 ---
 
